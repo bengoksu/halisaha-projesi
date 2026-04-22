@@ -5,7 +5,7 @@ Bu proje, 8-9 kişilik bir ekip tarafından geliştirilen, halısaha rezervasyon
 ---
 
 ## 🚀 Proje Hakkında
-Kullanıcıların mobil uygulama üzerinden halısaha rezervasyonu yapabildiği,ilan verebildiği, yöneticinin ise admin paneli üzerinden saha ve rezervasyonları yönetebildiği bir sistemdir.
+Kullanıcıların mobil uygulama üzerinden halısaha rezervasyonu yapabildiği,ilan verebildiği, yöneticinin ise admin paneli üzerinden saha ve rezervasyonları yönetebildiği ayrıca mobil uygulamanın anasayfasına düşecek olan duyuları oluşturabildiği bir sistemdir.
 
 ---
 
